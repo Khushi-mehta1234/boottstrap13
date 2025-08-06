@@ -1,0 +1,181 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+/* header section */
+.part1{
+    height: 50px;
+}
+.header-left, .header-right{
+    gap: 13px;
+}
+.nav-1{
+    width: 1230px;
+     margin-left: 145px;
+}
+.header-left p, .header-right p{
+font-weight: 500;
+font-size: 14px;
+}
+.header-left a{
+   font-size: 12px;
+}
+.header-right i{
+    padding-top: 3px;
+}
+.part2{
+    height: 110px;
+   
+}
+.navbar a{
+    color: black;
+    text-decoration: none;
+}
+.navbar .span{
+    text-decoration: underline;
+    
+}
+.navbar{
+    font-size: 16px;
+}
+.part2-1 h3{
+    padding-top: 14px;
+}
+.part2-2-1{
+    background: #F5F5F5;
+    border-radius: 6px;
+    height: 40px;
+}
+.part2-2-1 p{
+       padding-top: 9px;
+    margin-left: 15px;
+    color: #0000007b;
+    font-size: 14px;
+    
+    font-weight: 400;
+}
+.part2-2-1 i, .part2-2-2 i{
+     padding-top: 11px;
+     height: 24px;
+     width: 24px;
+     font-size: 18px;
+     margin-right: 15px;
+}
+.nav-items {
+     width: 1230px;
+     margin-left: 145px;
+    
+}
+
+/* main section */
+.min-nav{
+    gap: 10px; margin-left: 150px;
+    margin-top: 30px;
+}
+main{
+    width: 1150px;
+    height: 1200px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.strt i{
+    color: #FFAD33;
+    padding-top: 5px;
+}
+.rev{ margin-left: 15px;}
+
+.stock{
+    color: #00FF66;
+}
+.box{
+    height: 17px;
+    width: 17px;
+    border-radius: 50%;
+background-color: pink;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* footer section */
+footer{
+    height: 510px;
+    display: block;
+}
+.footer-main{
+      padding-top: 85px;
+      width: 1300px;
+      display: block;
+      margin-left: 140px;
+}
+
+.footer-items{
+ 
+   width: 1230px;
+    height: 300px;
+}
+.f1-email{
+    border: 2px solid rgb(255, 255, 255);
+    margin-top: 26px;
+    width: 217px;
+    border-radius: 4px;
+    
+}
+.f1-email p{
+    color: #fafafa8d;
+    font-size: 16px;
+    
+}
+.f1-email i{
+    transform: rotate(45deg);
+
+}
+.footer-support{
+    line-height: 30px;
+}
+.footer-qr{
+    width: 100px;
+    height: 90px;
+}
+
+
+.footer-options a{
+    display: block;
+   height: 50px;
+}
+.footer-download {
+    color:#ecebeba7 ;
+}
+.f-btn{
+    display: block;
+    margin-left: 20px;
+}
+.footer-btn2{
+    padding-top: 9px;
+  
+}
+.quick-link{
+    padding-top: 29px;
+}
+.copy{
+      margin-left: 140px;
+}
+.footer-hr{
+    color: #ffffff43;
+}
+.copy p{
+    color:#c1c1c142 ;
+}
